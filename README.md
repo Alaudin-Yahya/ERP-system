@@ -1,1 +1,1 @@
-Web based Enterprise Resource Planning
+Distributed Enterprise Resource Planning System
